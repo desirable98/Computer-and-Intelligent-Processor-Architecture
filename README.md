@@ -3,7 +3,7 @@
 
 
 写在开头:\
-&emsp;&emsp;本学期我将该课程作为培养方案中的跨一级选修，在[个人博客](https://desirable98.github.io/Home/)上同步更新每次作业思路，源代码及课程提交报告详见我的[github repo]()，希望能给学习该课程的同学提供一点帮助，也希望各位同学批评指正。
+&emsp;&emsp;本学期我将该课程作为培养方案中的跨一级选修，在[个人博客](https://desirable98.github.io/Home/)上同步更新每次作业思路，源代码及课程提交报告详见我的[github repo](https://github.com/desirable98/Computer-and-Intelligent-Processor-Architecture)，希望能给学习该课程的同学提供一点帮助，也希望各位同学批评指正。
 
 &emsp;&emsp;此课程为复旦大学工研院[陈迟晓](https://cihlab.github.io)老师开设的计算机与智能处理器体系结构线上课程。你可以在[elearning](https://elearning.fudan.edu.cn/courses/26051)课程主页上找到关于该课程的所有课程视频，课程ppt，三次小作业和最终project。同时有未知同学将该课程搬运到[bilibili](https://www.bilibili.com/video/BV1ff4y1X7kP?from=search&seid=16292078558108279068)，但不属于老师本人维护，请大家尽可能在课程主页上学习，方便及时掌握更新内容。\
 &emsp;&emsp;同时提供几门课程及书籍作为该课程的前置参考资料：
